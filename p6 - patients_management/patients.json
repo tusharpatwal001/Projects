@@ -49,16 +49,6 @@
         "bmi": 31.22,
         "verdict": "Obese"
     },
-    "P007": {
-        "name": "Rashi",
-        "city": "Delhi",
-        "age": 22,
-        "gender": "female",
-        "height": 1.58,
-        "weight": 49.0,
-        "bmi": 19.63,
-        "verdict": "Normal"
-    },
     "P008": {
         "name": "Tushar",
         "city": "Delhi",
